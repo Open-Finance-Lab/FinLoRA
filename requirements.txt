@@ -1,3 +1,24 @@
+accelerate
+peft
+tensorboard
+ninja
+werkzeug
+markdown
+hjson
+pydantic
+pydantic-core
+types-python-dateutil
+uri-template
+webcolors
+jsonpointer
+grpcio
+fqdn
+isoduration
+wandb
+python-dotenv
+fireworks-ai
+
+# Sphinx docs (from requirements.txt)
 nbsphinx==0.9.6
 nbsphinx-link==1.3.1
 sphinx-autobuild==2024.10.3
